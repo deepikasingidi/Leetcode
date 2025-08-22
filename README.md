@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2777-find-the-distinct-difference-array](https://github.com/deepikasingidi/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/deepikasingidi/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
 | ------- |
 | [2777-find-the-distinct-difference-array](https://github.com/deepikasingidi/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
+## Matrix
+|  |
+| ------- |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/deepikasingidi/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 <!---LeetCode Topics End-->
