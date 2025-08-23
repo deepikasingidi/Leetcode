@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/deepikasingidi/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/deepikasingidi/Leetcode/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/deepikasingidi/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
