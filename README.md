@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/deepikasingidi/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2777-find-the-distinct-difference-array](https://github.com/deepikasingidi/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/deepikasingidi/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/deepikasingidi/Leetcode/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/deepikasingidi/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## String
 |  |
@@ -22,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/deepikasingidi/Leetcode/tree/master/0812-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/deepikasingidi/Leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
