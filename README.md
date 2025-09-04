@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/deepikasingidi/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/deepikasingidi/Leetcode/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
 | ------- |
