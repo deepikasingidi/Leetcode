@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/deepikasingidi/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/deepikasingidi/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/deepikasingidi/Leetcode/tree/master/3830-find-closest-person) |
 ## Greedy
