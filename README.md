@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/deepikasingidi/Leetcode/tree/master/0812-rotate-string) |
 | [1751-slowest-key](https://github.com/deepikasingidi/Leetcode/tree/master/1751-slowest-key) |
 | [2528-number-of-valid-clock-times](https://github.com/deepikasingidi/Leetcode/tree/master/2528-number-of-valid-clock-times) |
+| [2887-sort-vowels-in-a-string](https://github.com/deepikasingidi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/deepikasingidi/Leetcode/tree/master/3379-score-of-a-string) |
 ## String Matching
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/deepikasingidi/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [2887-sort-vowels-in-a-string](https://github.com/deepikasingidi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
