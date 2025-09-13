@@ -70,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/deepikasingidi/Leetcode/tree/master/0055-jump-game) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/deepikasingidi/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/deepikasingidi/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/deepikasingidi/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/deepikasingidi/Leetcode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
