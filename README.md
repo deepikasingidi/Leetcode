@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/deepikasingidi/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2777-find-the-distinct-difference-array](https://github.com/deepikasingidi/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deepikasingidi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/deepikasingidi/Leetcode/tree/master/0812-rotate-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/deepikasingidi/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1751-slowest-key](https://github.com/deepikasingidi/Leetcode/tree/master/1751-slowest-key) |
 | [2528-number-of-valid-clock-times](https://github.com/deepikasingidi/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2887-sort-vowels-in-a-string](https://github.com/deepikasingidi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
