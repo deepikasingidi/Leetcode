@@ -12,17 +12,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2777-find-the-distinct-difference-array](https://github.com/deepikasingidi/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/deepikasingidi/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/deepikasingidi/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3797-design-spreadsheet](https://github.com/deepikasingidi/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deepikasingidi/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2777-find-the-distinct-difference-array](https://github.com/deepikasingidi/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
+| [3797-design-spreadsheet](https://github.com/deepikasingidi/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deepikasingidi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/deepikasingidi/Leetcode/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/deepikasingidi/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3797-design-spreadsheet](https://github.com/deepikasingidi/Leetcode/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -32,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-number-of-valid-clock-times](https://github.com/deepikasingidi/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2887-sort-vowels-in-a-string](https://github.com/deepikasingidi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/deepikasingidi/Leetcode/tree/master/3379-score-of-a-string) |
+| [3797-design-spreadsheet](https://github.com/deepikasingidi/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deepikasingidi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
@@ -94,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/deepikasingidi/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/deepikasingidi/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Design
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/deepikasingidi/Leetcode/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
