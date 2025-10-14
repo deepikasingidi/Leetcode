@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/deepikasingidi/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/deepikasingidi/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/deepikasingidi/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/deepikasingidi/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/deepikasingidi/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/deepikasingidi/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
