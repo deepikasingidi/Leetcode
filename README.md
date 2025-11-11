@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/deepikasingidi/Leetcode/tree/master/0011-container-with-most-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0165-compare-version-numbers](https://github.com/deepikasingidi/Leetcode/tree/master/0165-compare-version-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/deepikasingidi/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Combinatorics
@@ -271,5 +272,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepikasingidi/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
