@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-number-of-valid-clock-times](https://github.com/deepikasingidi/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2887-sort-vowels-in-a-string](https://github.com/deepikasingidi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/deepikasingidi/Leetcode/tree/master/3379-score-of-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/deepikasingidi/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/deepikasingidi/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/deepikasingidi/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deepikasingidi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/deepikasingidi/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/deepikasingidi/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/deepikasingidi/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/deepikasingidi/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/deepikasingidi/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deepikasingidi/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/deepikasingidi/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deepikasingidi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
