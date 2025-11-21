@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/deepikasingidi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/deepikasingidi/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/deepikasingidi/Leetcode/tree/master/0056-merge-intervals) |
+| [0119-pascals-triangle-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deepikasingidi/Leetcode/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/deepikasingidi/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/deepikasingidi/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepikasingidi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/deepikasingidi/Leetcode/tree/master/0055-jump-game) |
+| [0119-pascals-triangle-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deepikasingidi/Leetcode/tree/master/0120-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/deepikasingidi/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Tree
