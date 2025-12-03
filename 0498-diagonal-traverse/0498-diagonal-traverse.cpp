@@ -1,42 +1,42 @@
 class Solution {
 public:
     vector<int> findDiagonalOrder(vector<vector<int>>& mat) {
-        int i=0, j=0;
-        vector<int> res;
         int n = mat.size();
         int m = mat[0].size();
-        bool up = true;
-        while (res.size() < n * m) {
-        res.push_back(mat[i][j]);
-            if(up){
-                if(j==m-1){
-                    i++;
-                    up = false;
-                }
-                else if(i==0){
-                    j++;
-                    up = false;
-                }
-                else {
+
+        vector<int> ans;
+
+        pair<int, int> top(0,0);
+        pair<int, int> left(0,0);
+        
+        bool flage = true;
+        while(top.first<n && top.second<m && left.first<n && left.second<m) {
+            if(flage) {
+                int i = left.first, j = left.second;
+                while(i >= top.first && j <= top.second) {
+                    ans.push_back(mat[i][j]);
                     i--;
                     j++;
                 }
             }
             else {
-                if(i==n-1){
-                    j++;
-                    up = true;
-                }
-                else if(j==0){
-                    i++;
-                    up = true;
-                }
-                else {
+                int i = top.first, j = top.second;
+                while(i <= left.first && j>= left.second) {
+                    ans.push_back(mat[i][j]);
                     i++;
                     j--;
                 }
             }
+
+            if(top.second == m-1) top.first++;
+            else top.second++;
+
+            if(left.first == n-1) left.second++;
+            else left.first++;
+
+            if(top.first==n && top.second==m && left.first==n && left.second==m) break;
+            flage = !flage;
         }
-        return res;
+        return ans;
     }
 };
