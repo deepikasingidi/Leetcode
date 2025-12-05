@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/deepikasingidi/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/deepikasingidi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deepikasingidi/Leetcode/tree/master/0120-triangle) |
 | [0289-game-of-life](https://github.com/deepikasingidi/Leetcode/tree/master/0289-game-of-life) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/deepikasingidi/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/deepikasingidi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/deepikasingidi/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepikasingidi/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1961-maximum-ice-cream-bars](https://github.com/deepikasingidi/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/deepikasingidi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/deepikasingidi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/deepikasingidi/Leetcode/tree/master/0165-compare-version-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/deepikasingidi/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Combinatorics
