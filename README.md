@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/deepikasingidi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deepikasingidi/Leetcode/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/deepikasingidi/Leetcode/tree/master/0169-majority-element) |
 | [0289-game-of-life](https://github.com/deepikasingidi/Leetcode/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/deepikasingidi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/deepikasingidi/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepikasingidi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/deepikasingidi/Leetcode/tree/master/0169-majority-element) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deepikasingidi/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepikasingidi/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/deepikasingidi/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/deepikasingidi/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/deepikasingidi/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/deepikasingidi/Leetcode/tree/master/0169-majority-element) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/deepikasingidi/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepikasingidi/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1961-maximum-ice-cream-bars](https://github.com/deepikasingidi/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/deepikasingidi/Leetcode/tree/master/0169-majority-element) |
 | [1961-maximum-ice-cream-bars](https://github.com/deepikasingidi/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deepikasingidi/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/deepikasingidi/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -328,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/deepikasingidi/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/deepikasingidi/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
