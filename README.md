@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deepikasingidi/Leetcode/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/deepikasingidi/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/deepikasingidi/Leetcode/tree/master/0189-rotate-array) |
 | [0289-game-of-life](https://github.com/deepikasingidi/Leetcode/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/deepikasingidi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/deepikasingidi/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/deepikasingidi/Leetcode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/deepikasingidi/Leetcode/tree/master/0189-rotate-array) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/deepikasingidi/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/deepikasingidi/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/deepikasingidi/Leetcode/tree/master/1642-water-bottles) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/deepikasingidi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/deepikasingidi/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/deepikasingidi/Leetcode/tree/master/0189-rotate-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/deepikasingidi/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Combinatorics
 |  |
