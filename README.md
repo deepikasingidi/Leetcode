@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/deepikasingidi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/deepikasingidi/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/deepikasingidi/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0537-complex-number-multiplication](https://github.com/deepikasingidi/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/deepikasingidi/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/deepikasingidi/Leetcode/tree/master/0812-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deepikasingidi/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/deepikasingidi/Leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/deepikasingidi/Leetcode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/deepikasingidi/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0537-complex-number-multiplication](https://github.com/deepikasingidi/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/deepikasingidi/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0885-spiral-matrix-iii](https://github.com/deepikasingidi/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/deepikasingidi/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/deepikasingidi/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/deepikasingidi/Leetcode/tree/master/0189-rotate-array) |
+| [0537-complex-number-multiplication](https://github.com/deepikasingidi/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/deepikasingidi/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/deepikasingidi/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
