@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepikasingidi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1222-queens-that-can-attack-the-king](https://github.com/deepikasingidi/Leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepikasingidi/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/deepikasingidi/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/deepikasingidi/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/deepikasingidi/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/deepikasingidi/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/deepikasingidi/Leetcode/tree/master/0189-rotate-array) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/deepikasingidi/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/deepikasingidi/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/deepikasingidi/Leetcode/tree/master/1642-water-bottles) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepikasingidi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/deepikasingidi/Leetcode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deepikasingidi/Leetcode/tree/master/0120-triangle) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/deepikasingidi/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepikasingidi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Tree
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepikasingidi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3026-maximum-good-subarray-sum](https://github.com/deepikasingidi/Leetcode/tree/master/3026-maximum-good-subarray-sum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/deepikasingidi/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/deepikasingidi/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
