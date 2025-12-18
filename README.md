@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/deepikasingidi/Leetcode/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/deepikasingidi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/deepikasingidi/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikasingidi/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/deepikasingidi/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0885-spiral-matrix-iii](https://github.com/deepikasingidi/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/deepikasingidi/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/deepikasingidi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/deepikasingidi/Leetcode/tree/master/0055-jump-game) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikasingidi/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1612-avoid-flood-in-the-city](https://github.com/deepikasingidi/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/deepikasingidi/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/deepikasingidi/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/deepikasingidi/Leetcode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deepikasingidi/Leetcode/tree/master/0120-triangle) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikasingidi/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/deepikasingidi/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepikasingidi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
