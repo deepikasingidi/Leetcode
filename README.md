@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/deepikasingidi/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1751-slowest-key](https://github.com/deepikasingidi/Leetcode/tree/master/1751-slowest-key) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/deepikasingidi/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/deepikasingidi/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2528-number-of-valid-clock-times](https://github.com/deepikasingidi/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2887-sort-vowels-in-a-string](https://github.com/deepikasingidi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/deepikasingidi/Leetcode/tree/master/3379-score-of-a-string) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepikasingidi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/deepikasingidi/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3026-maximum-good-subarray-sum](https://github.com/deepikasingidi/Leetcode/tree/master/3026-maximum-good-subarray-sum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/deepikasingidi/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/deepikasingidi/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
