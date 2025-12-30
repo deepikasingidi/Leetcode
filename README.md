@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/deepikasingidi/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/deepikasingidi/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepikasingidi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/deepikasingidi/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1222-queens-that-can-attack-the-king](https://github.com/deepikasingidi/Leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepikasingidi/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/deepikasingidi/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0930-binary-subarrays-with-sum](https://github.com/deepikasingidi/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepikasingidi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/deepikasingidi/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deepikasingidi/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepikasingidi/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/deepikasingidi/Leetcode/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/deepikasingidi/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1961-maximum-ice-cream-bars](https://github.com/deepikasingidi/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deepikasingidi/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/deepikasingidi/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepikasingidi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepikasingidi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/deepikasingidi/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/deepikasingidi/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/deepikasingidi/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bit Manipulation
