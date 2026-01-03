@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepikasingidi/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepikasingidi/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/deepikasingidi/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/deepikasingidi/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/deepikasingidi/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikasingidi/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepikasingidi/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/deepikasingidi/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/deepikasingidi/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/deepikasingidi/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/deepikasingidi/Leetcode/tree/master/0279-perfect-squares) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikasingidi/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepikasingidi/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/deepikasingidi/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2054-two-best-non-overlapping-events](https://github.com/deepikasingidi/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepikasingidi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepikasingidi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepikasingidi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepikasingidi/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -442,4 +446,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepikasingidi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepikasingidi/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
