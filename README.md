@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/deepikasingidi/Leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepikasingidi/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/deepikasingidi/Leetcode/tree/master/1390-four-divisors) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepikasingidi/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/deepikasingidi/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/deepikasingidi/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0840-magic-squares-in-grid](https://github.com/deepikasingidi/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/deepikasingidi/Leetcode/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/deepikasingidi/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
