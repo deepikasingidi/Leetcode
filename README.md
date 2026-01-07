@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/deepikasingidi/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/deepikasingidi/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2073-time-needed-to-buy-tickets](https://github.com/deepikasingidi/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepikasingidi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/deepikasingidi/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/deepikasingidi/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/deepikasingidi/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1222-queens-that-can-attack-the-king](https://github.com/deepikasingidi/Leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1642-water-bottles](https://github.com/deepikasingidi/Leetcode/tree/master/1642-water-bottles) |
+| [2073-time-needed-to-buy-tickets](https://github.com/deepikasingidi/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/deepikasingidi/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/deepikasingidi/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/deepikasingidi/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/deepikasingidi/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2073-time-needed-to-buy-tickets](https://github.com/deepikasingidi/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
 |  |
 | ------- |
