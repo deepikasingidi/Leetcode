@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/deepikasingidi/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deepikasingidi/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/deepikasingidi/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/deepikasingidi/Leetcode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/deepikasingidi/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/deepikasingidi/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/deepikasingidi/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2054-two-best-non-overlapping-events](https://github.com/deepikasingidi/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepikasingidi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/deepikasingidi/Leetcode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 ## Tree
 |  |
 | ------- |
