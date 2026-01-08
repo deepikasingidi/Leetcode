@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/deepikasingidi/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/deepikasingidi/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/deepikasingidi/Leetcode/tree/master/0200-number-of-islands) |
+| [0260-single-number-iii](https://github.com/deepikasingidi/Leetcode/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/deepikasingidi/Leetcode/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/deepikasingidi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/deepikasingidi/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/deepikasingidi/Leetcode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/deepikasingidi/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0260-single-number-iii](https://github.com/deepikasingidi/Leetcode/tree/master/0260-single-number-iii) |
 | [0980-unique-paths-iii](https://github.com/deepikasingidi/Leetcode/tree/master/0980-unique-paths-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/deepikasingidi/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/deepikasingidi/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
