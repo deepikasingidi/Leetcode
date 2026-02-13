@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/deepikasingidi/Leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/deepikasingidi/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepikasingidi/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepikasingidi/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/deepikasingidi/Leetcode/tree/master/1390-four-divisors) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/deepikasingidi/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deepikasingidi/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepikasingidi/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepikasingidi/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/deepikasingidi/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/deepikasingidi/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/deepikasingidi/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikasingidi/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepikasingidi/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepikasingidi/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/deepikasingidi/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/deepikasingidi/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
