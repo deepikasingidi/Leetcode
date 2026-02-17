@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/deepikasingidi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0480-sliding-window-median](https://github.com/deepikasingidi/Leetcode/tree/master/0480-sliding-window-median) |
 | [0498-diagonal-traverse](https://github.com/deepikasingidi/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/deepikasingidi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikasingidi/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/deepikasingidi/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0840-magic-squares-in-grid](https://github.com/deepikasingidi/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/deepikasingidi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/deepikasingidi/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0611-valid-triangle-number](https://github.com/deepikasingidi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikasingidi/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepikasingidi/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepikasingidi/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/deepikasingidi/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/deepikasingidi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/deepikasingidi/Leetcode/tree/master/0169-majority-element) |
+| [0611-valid-triangle-number](https://github.com/deepikasingidi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/deepikasingidi/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepikasingidi/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1961-maximum-ice-cream-bars](https://github.com/deepikasingidi/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/deepikasingidi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/deepikasingidi/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/deepikasingidi/Leetcode/tree/master/0189-rotate-array) |
+| [0611-valid-triangle-number](https://github.com/deepikasingidi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1861-rotating-the-box](https://github.com/deepikasingidi/Leetcode/tree/master/1861-rotating-the-box) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/deepikasingidi/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/deepikasingidi/Leetcode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/deepikasingidi/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepikasingidi/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0611-valid-triangle-number](https://github.com/deepikasingidi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/deepikasingidi/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1612-avoid-flood-in-the-city](https://github.com/deepikasingidi/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepikasingidi/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
