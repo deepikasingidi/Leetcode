@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/deepikasingidi/Leetcode/tree/master/0279-perfect-squares) |
 | [0537-complex-number-multiplication](https://github.com/deepikasingidi/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0840-magic-squares-in-grid](https://github.com/deepikasingidi/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0878-nth-magical-number](https://github.com/deepikasingidi/Leetcode/tree/master/0878-nth-magical-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/deepikasingidi/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/deepikasingidi/Leetcode/tree/master/1390-four-divisors) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepikasingidi/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0611-valid-triangle-number](https://github.com/deepikasingidi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/deepikasingidi/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0878-nth-magical-number](https://github.com/deepikasingidi/Leetcode/tree/master/0878-nth-magical-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/deepikasingidi/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepikasingidi/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/deepikasingidi/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
