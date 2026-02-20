@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/deepikasingidi/Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/deepikasingidi/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/deepikasingidi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0456-132-pattern](https://github.com/deepikasingidi/Leetcode/tree/master/0456-132-pattern) |
 | [0480-sliding-window-median](https://github.com/deepikasingidi/Leetcode/tree/master/0480-sliding-window-median) |
 | [0498-diagonal-traverse](https://github.com/deepikasingidi/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/deepikasingidi/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepikasingidi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepikasingidi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0456-132-pattern](https://github.com/deepikasingidi/Leetcode/tree/master/0456-132-pattern) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepikasingidi/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Two Pointers
 |  |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/deepikasingidi/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/deepikasingidi/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/deepikasingidi/Leetcode/tree/master/0456-132-pattern) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepikasingidi/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0611-valid-triangle-number](https://github.com/deepikasingidi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/deepikasingidi/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepikasingidi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/deepikasingidi/Leetcode/tree/master/0456-132-pattern) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepikasingidi/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Backtracking
 |  |
@@ -548,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/deepikasingidi/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/deepikasingidi/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
