@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/deepikasingidi/Leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/deepikasingidi/Leetcode/tree/master/0279-perfect-squares) |
 | [0537-complex-number-multiplication](https://github.com/deepikasingidi/Leetcode/tree/master/0537-complex-number-multiplication) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepikasingidi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/deepikasingidi/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0878-nth-magical-number](https://github.com/deepikasingidi/Leetcode/tree/master/0878-nth-magical-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/deepikasingidi/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/deepikasingidi/Leetcode/tree/master/0260-single-number-iii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/deepikasingidi/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepikasingidi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0980-unique-paths-iii](https://github.com/deepikasingidi/Leetcode/tree/master/0980-unique-paths-iii) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepikasingidi/Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/deepikasingidi/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
