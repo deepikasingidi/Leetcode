@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/deepikasingidi/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0840-magic-squares-in-grid](https://github.com/deepikasingidi/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0885-spiral-matrix-iii](https://github.com/deepikasingidi/Leetcode/tree/master/0885-spiral-matrix-iii) |
+| [0890-find-and-replace-pattern](https://github.com/deepikasingidi/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/deepikasingidi/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/deepikasingidi/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/deepikasingidi/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/deepikasingidi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/deepikasingidi/Leetcode/tree/master/0480-sliding-window-median) |
 | [0840-magic-squares-in-grid](https://github.com/deepikasingidi/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0890-find-and-replace-pattern](https://github.com/deepikasingidi/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/deepikasingidi/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/deepikasingidi/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepikasingidi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/deepikasingidi/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/deepikasingidi/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/deepikasingidi/Leetcode/tree/master/0812-rotate-string) |
+| [0890-find-and-replace-pattern](https://github.com/deepikasingidi/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/deepikasingidi/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deepikasingidi/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepikasingidi/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
