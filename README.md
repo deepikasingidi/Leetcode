@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/deepikasingidi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/deepikasingidi/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/deepikasingidi/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0394-decode-string](https://github.com/deepikasingidi/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepikasingidi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0537-complex-number-multiplication](https://github.com/deepikasingidi/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/deepikasingidi/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepikasingidi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepikasingidi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/deepikasingidi/Leetcode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/deepikasingidi/Leetcode/tree/master/0456-132-pattern) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepikasingidi/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Two Pointers
@@ -582,4 +584,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deepikasingidi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/deepikasingidi/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
