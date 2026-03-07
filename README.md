@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/deepikasingidi/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1751-slowest-key](https://github.com/deepikasingidi/Leetcode/tree/master/1751-slowest-key) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/deepikasingidi/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/deepikasingidi/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepikasingidi/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/deepikasingidi/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/deepikasingidi/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
