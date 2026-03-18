@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/deepikasingidi/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/deepikasingidi/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3026-maximum-good-subarray-sum](https://github.com/deepikasingidi/Leetcode/tree/master/3026-maximum-good-subarray-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/deepikasingidi/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/deepikasingidi/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/deepikasingidi/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepikasingidi/Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/deepikasingidi/Leetcode/tree/master/1861-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/deepikasingidi/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/deepikasingidi/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/deepikasingidi/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3797-design-spreadsheet](https://github.com/deepikasingidi/Leetcode/tree/master/3797-design-spreadsheet) |
 ## String
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepikasingidi/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/deepikasingidi/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3026-maximum-good-subarray-sum](https://github.com/deepikasingidi/Leetcode/tree/master/3026-maximum-good-subarray-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/deepikasingidi/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/deepikasingidi/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/deepikasingidi/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
