@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/deepikasingidi/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1751-slowest-key](https://github.com/deepikasingidi/Leetcode/tree/master/1751-slowest-key) |
 | [1861-rotating-the-box](https://github.com/deepikasingidi/Leetcode/tree/master/1861-rotating-the-box) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/deepikasingidi/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/deepikasingidi/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/deepikasingidi/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/deepikasingidi/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1222-queens-that-can-attack-the-king](https://github.com/deepikasingidi/Leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1861-rotating-the-box](https://github.com/deepikasingidi/Leetcode/tree/master/1861-rotating-the-box) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/deepikasingidi/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/deepikasingidi/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/deepikasingidi/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
