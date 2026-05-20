@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/deepikasingidi/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/deepikasingidi/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/deepikasingidi/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/deepikasingidi/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/deepikasingidi/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2777-find-the-distinct-difference-array](https://github.com/deepikasingidi/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/deepikasingidi/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deepikasingidi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/deepikasingidi/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/deepikasingidi/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/deepikasingidi/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/deepikasingidi/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2777-find-the-distinct-difference-array](https://github.com/deepikasingidi/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [3026-maximum-good-subarray-sum](https://github.com/deepikasingidi/Leetcode/tree/master/3026-maximum-good-subarray-sum) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/deepikasingidi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deepikasingidi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deepikasingidi/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/deepikasingidi/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepikasingidi/Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/deepikasingidi/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/deepikasingidi/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
