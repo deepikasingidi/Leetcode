@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/deepikasingidi/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3379-score-of-a-string](https://github.com/deepikasingidi/Leetcode/tree/master/3379-score-of-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/deepikasingidi/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/deepikasingidi/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/deepikasingidi/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/deepikasingidi/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/deepikasingidi/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2528-number-of-valid-clock-times](https://github.com/deepikasingidi/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/deepikasingidi/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/deepikasingidi/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/deepikasingidi/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/deepikasingidi/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3804-number-of-centered-subarrays](https://github.com/deepikasingidi/Leetcode/tree/master/3804-number-of-centered-subarrays) |
