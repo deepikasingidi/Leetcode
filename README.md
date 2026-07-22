@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepikasingidi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0279-perfect-squares](https://github.com/deepikasingidi/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/deepikasingidi/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0576-out-of-boundary-paths](https://github.com/deepikasingidi/Leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepikasingidi/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/deepikasingidi/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepikasingidi/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
